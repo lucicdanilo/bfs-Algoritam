@@ -1,0 +1,40 @@
+h1 {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 1%;
+  margin-bottom: 1.5%;
+}
+
+#rezultatAlgoritma {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 1%;
+  margin-bottom: 0%;
+}
+
+#putanja {
+  font-family: Arial, Helvetica, sans-serif;
+  margin-left: 1%;
+}
+
+#dugmad {
+  margin-left: 1%;
+}
+
+.node {
+  cursor: pointer;
+}
+
+.node circle {
+  fill: #fff;
+  stroke: steelblue;
+  stroke-width: 3px;
+}
+
+.node text {
+  font: 18px sans-serif;
+}
+
+.link {
+  fill: none;
+  stroke: #ccc;
+  stroke-width: 2px;
+}
